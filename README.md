@@ -10,4 +10,4 @@ Solutions to problems solved on LeetCode.
 ## NeetCode
 Solutions and practice based on the NeetCode roadmap.
 
-[View NeetCode Solutions](YOUR_NEETCODE_REPO_LINK)
+[View NeetCode Solutions](https://github.com/Sumbal-Fatima/neetcode-submissions)
