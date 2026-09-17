@@ -5,9 +5,9 @@ This repository contains my DSA practice and solutions.
 ## LeetCode
 Solutions to problems solved on LeetCode.
 
-[View LeetCode Solutions] (https://github.com/Sumbal-Fatima/Leetcode-problems)
+(https://github.com/Sumbal-Fatima/Leetcode-problems)
 
 ## NeetCode
-Solutions and practice based on the NeetCode roadmap.
+Solutions to problems solved on NeetCode
 
-[View NeetCode Solutions](https://github.com/Sumbal-Fatima/neetcode-submissions)
+(https://github.com/Sumbal-Fatima/neetcode-submissions)
